@@ -59,6 +59,15 @@ PNU-IoT-Academy/
 ├── 📁 3_WebApp_Basic/
 ├── 📁 4_Smart_Home_Nodejs/
 └── 📁 5_WEB_Smartfarm_Project/
+
+PNU-IoT-Academy/
+├── README.md
+├── 1_Cpp_Arduino/
+├── 2_Smart_Sensor/
+├── 3_WebApp_Basic/
+├── 4_Smart_Home_Nodejs/
+└── 5_WEB_Smartfarm_Project/
+
  
 
 각 폴더에는 해당 과정의 강의 자료, 실습 코드 및 과제 결과물이 포함되어 있습니다. 자세한 내용은 각 폴더의 하위 디렉토리를 참고해주시기 바랍니다.
