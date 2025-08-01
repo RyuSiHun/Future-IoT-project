@@ -51,15 +51,7 @@
 
 ## 📂 폴더 구조
 
-
-PNU-IoT-Academy/
-├── 📄 README.md
-├── 📁 1_Cpp_Arduino/
-├── 📁 2_Smart_Sensor/
-├── 📁 3_WebApp_Basic/
-├── 📁 4_Smart_Home_Nodejs/
-└── 📁 5_WEB_Smartfarm_Project/
-
+"
 PNU-IoT-Academy/
 ├── README.md
 ├── 1_Cpp_Arduino/
@@ -67,6 +59,7 @@ PNU-IoT-Academy/
 ├── 3_WebApp_Basic/
 ├── 4_Smart_Home_Nodejs/
 └── 5_WEB_Smartfarm_Project/
+"
 
  
 
